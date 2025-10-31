@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <soap:Body>
+        <W_FC0073T_NTx_SelectEnc xmlns="http://ilogen.ilogen.com/iLOGEN.FC.WebService/">
+            <bytDataParam>Z/nY+cZ3l4Da0g3Y7trY5OolaKE/unqq/ClhGzkCGqfbli7a47CoTIDU3uTjpJkojBR+Cw1ZjxrWWjHkVzF45+2X6ZAuNdnq+MgDCaHfjVNp1POQdKnB7JbO0YRoUBPFnMEmnWqXGebWGGiLKFskkblegkHsO78eG8ZpVlg6s/pApj/T7B7+8hycXPX8IiviP8yHVY65D/ZOfzMv/m+oXWzROpe6Tg08K2yNX2jJvaxB6cuMexm/ZBgfEzPJzxw6ioR4ybWHA9OkFXr5QTfyQuOgEZFl94NdrnaiFygQ+HQJBFoXwydthJNc0ezIMfcKdD7SxkxDPYbwKodQE3Ysv/UPSjV9oqYN4/Uo9HffeFSEi6rJddkXzFWELfo+tAfVypbkV8iJZdDt/07/203krH+tEEtaivtn/OlnzoV9XXAg4TBGVXbzpSfjFCjOIYL8</bytDataParam>
+        </W_FC0073T_NTx_SelectEnc>
+    </soap:Body>
+</soap:Envelope>
+
+POST http://ilogen.ilogen.com/iLOGEN.FC.WebService/W_FC0073T.asmx HTTP/1.1
+User-Agent: Mozilla/4.0 (compatible; MSIE 6.0; MS Web Services Client Protocol 2.0.50727.9179)
+Content-Type: text/xml; charset=utf-8
+SOAPAction: "http://ilogen.ilogen.com/iLOGEN.FC.WebService/W_FC0073T_NTx_SelectEnc"
+Host: ilogen.ilogen.com
+Content-Length: 829
+Expect: 100-continue
+
+<?xml version="1.0" encoding="utf-8"?><soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><soap:Body><W_FC0073T_NTx_SelectEnc xmlns="http://ilogen.ilogen.com/iLOGEN.FC.WebService/"><bytDataParam>Z/nY+cZ3l4Da0g3Y7trY5OolaKE/unqq/ClhGzkCGqfbli7a47CoTIDU3uTjpJkojBR+Cw1ZjxrWWjHkVzF45+2X6ZAuNdnq+MgDCaHfjVNp1POQdKnB7JbO0YRoUBPFnMEmnWqXGebWGGiLKFskkblegkHsO78eG8ZpVlg6s/pApj/T7B7+8hycXPX8IiviP8yHVY65D/ZOfzMv/m+oXWzROpe6Tg08K2yNX2jJvaxB6cuMexm/ZBgfEzPJzxw6ioR4ybWHA9OkFXr5QTfyQuOgEZFl94NdrnaiFygQ+HQJBFoXwydthJNc0ezIMfcKdD7SxkxDPYbwKodQE3Ysv/UPSjV9oqYN4/Uo9HffeFSEi6rJddkXzFWELfo+tAfVypbkV8iJZdDt/07/203krH+tEEtaivtn/OlnzoV9XXAg4TBGVXbzpSfjFCjOIYL8</bytDataParam></W_FC0073T_NTx_SelectEnc></soap:Body></soap:Envelope>
+
+
+POST https://self.events.data.microsoft.com/OneCollector/1.0/ HTTP/1.1
+Accept: */*
+APIKey: 0d96bb3db51349c6ad8309ed1858d441-adfbcb5b-0d2f-4ada-ad0a-50f1b1c7035e-7287,cd836626611c4caaa8fc5b2e728ee81d-3b6d6c45-6377-4bf5-9792-dbf8e1881088-7521
+AuthMsaDeviceTicket: t=GwD2AbuEBAAUT8E2pcttyweiwH80omnEMQMzYo0OZgAAEBdqi9fIj99tqMh1/7KHm6TAAVBMbhYcabxN+KeKLM0EweYKX4wMiRQGMGiGtcvqAav0+s2Hyi4x3H5BS7baGTG5MqxVXPAKZNTL4F+GDLrhkJjTHq2dabqbIQpL++yM2tG8lydStDT1tm4Nm3gQmlPWdsnBjEiK2vrLV0IHrLvplOm+62ma7K/eYGNN2doMYGQnavQgwtQKuYc6ffQzHMRvrCA1dA0bKWk1jYcaj5Oy9fWgKu/hXIYEExsOpUWJLnb7S7ofIyZg3nPEszlnngDpUsv9IHV1QajT9E1033SzDa+c5DQ9d8KYfI9/dNwzUqMvRKbdvb4wMYmVa0razEOZSVsOusebA1eVXIdurV+vlje50Mozx6ZmKbvjHU7PGRCyXYzOPl7X8HMNImtt61zGzsT6QyLZt//LmdHZY3Cau7ja89Y+daLYLlSjOT074bZajD6zmPQmJEsND3ZQiMAG53kTtaSQAFduJ8gv8l1l3Gj6MZPPa8bBwShHzCJvcqBsGkdTpg7aXFXqxDkGFfOMvP/ipsj8nt5tppF7YhH6eJkHtNLp6BflW0k+ArmhbXaIZBJcuAH5Rt6C1Iq/3KOc3PrRE3Wr6rl4MPPXdBcRRO76AQ==&p=
+Client-Id: NO_AUTH
+Content-Encoding: deflate
+Content-Type: application/bond-compact-binary
+Expect: 100-continue
+SDK-Version: EVT-Windows-C++-No-3.4.15.1
+Upload-Time: 1761900660654
+Host: self.events.data.microsoft.com
+Content-Length: 2391
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+)3.0IOffice_Excel_Coauth_OpenFileq ˬϖ   "o:0d96bb3db51349c6ad8309ed1858d441   
+i"Micro-Star International Co., Ltd.  MS-7C94  
+  
+I&c:b4a1ba95-ac93-4230-b88a-a81cade2527a Windows.Desktop  
+ Windows Desktop ,10.0.26100.1.amd64fre.ge_release.240331-1435  
+ EXCEL 16.0.14332.20281 EXCEL  
+I	Unmeteredi Unknown   
+)EVT-Windows-C++-No-3.4.15.1I$1791B69D-33FA-4D4C-A7DF-2A1B962B8A20q  !
+i+09:00  %
+  <custom.office_system_activity F
+-	
+kActivity.AggMode0  
+Activity.CViFhVMQxEkX0W4kt1Sf0l2Mw.83.1.2 Activity.Count0   Activity.Duration0    9 Activity.Result.Code0  Activity.Result.Tag0      Activity.Result.Typei HRESULT Activity.Success0  
+App.BranchiFork App.InstallType0   App.NameiExcel App.PlatformiWin32 
+App.Versioni16.0.14332.20281 	Client.Id0 
+      @ J<MӚ
+j "Consent.AddInContentSourceLocation0   Consent.AddInContentState0   1Consent.ControllerConnectedServicesSourceLocation0   (Consent.ControllerConnectedServicesState0  Consent.DiagnosticConsentLevel0   ,Consent.DiagnosticConsentLevelSourceLocation0  !Consent.DiagnosticDataConsentTime0   ˩     %Consent.DownloadContentSourceLocation0   Consent.DownloadContentState0  Consent.ServiceConnectionState0   ,Consent.ServiceConnectionStateSourceLocation0   Consent.UserCategoryValue0   *Consent.UserContentDependentSourceLocation0   !Consent.UserContentDependentState0  Data.AutoRecoverBookEnabled0  "Data.AutoRecoverBookSessionEnabled0  Data.CoauthEnabled0 Data.CountFishbowlEnd0  Data.CountFishbowlStart0  #Data.CountOpenedVisibleWorkbooksEnd0   %Data.CountOpenedVisibleWorkbooksStart0   Data.CountOpenedWorkbooksEnd0   Data.CountOpenedWorkbooksStart0   Data.Doc.CreationTime0   ɉ ꐥ  Data.Doc.EdpState0   Data.Doc.Extixls Data.Doc.FileFormat0     Data.Doc.LastModifiedTime0     ꐥ  Data.Doc.Location0  Data.Doc.SessionId0   Data.Doc.SizeInBytes0  ܵ Data.Doc.StorageProviderIdicomputer Data.Doc.UrlHashK
++
+0  i$64C55D53-3C9B-4B2D-880B-6699DC2F0CEB Data.ErrorTagsi%[{"tag": "cy205", "hr": -2147467260}] Data.FCorrupted0 
+Data.FErrorOn0  "Data.FInLoadWhenCallingHrLoadMetro0  Data.FUdfNeedsRecalc0 Data.FileIOClpState0  Data.FileLoadFlags0   @ Data.FishbowlEnd0 Data.FishbowlStart0 
+Data.Hidden0  Data.InAutomation0 Data.InclusiveMeasurementsi.cZ10eb468eu2ew22eA2eU11fw50fy148ge20a0ymo0b468 Data.IsBootOpen0 Data.IsFTempFileFromCsiEnabled0 Data.IsStartupFile0  Data.LoadFromStreamReason0   Data.LoadReason0  $ Data.Measurementsi.cZ10eb197eu2ew22eA2eU11fw50fy148ge20a2ymo0b468 Data.NoShowAlertReason0  
+ Data.PathLength0    Data.RecalcMode0   Data.RestartLoadCount0  Data.SavedRupBuild0   Data.ScanRequiredResult0   Data.SecureReaderState0  Data.WorkbookIdi&{29BAEFA3-D1CC-46C0-B663-81B95508F65A} Data.cMsoShapes0  Data.numShapes0  Device.OsBuildi26100 Device.OsVersioni10.0 Event.CViFhVMQxEkX0W4kt1Sf0l2Mw.83.1.2 Event.ContractiOffice.System.Activity 
+Event.Flags0         d Event.Idi'434c1516-2411-455f-b892-dd527f497633.33 
+Event.NameiOffice.Excel.Coauth.OpenFile Event.SampleRate0        ? Event.SchemaVersion0   Event.Sequence0  B Event.SourceiMso 
+Event.Time0   ʬϖ   EventInfo.Level0   Legacy.AppId0   Legacy.OsEnv0   Release.AudienceiProduction_LTSC2021 Release.AudienceGroupi
+Production Release.ChanneliLTSC2021 Release.Forki2107-Jul Session.EcsETagi."Eb2DQ/9o5N3j77wL0E+ZutYdweskdB3uM18+kwfKF6I=" 
+Session.Flags0      
+Session.Idi$434c1516-2411-455f-b892-dd527f497633 Session.MeasuresEnabled0 Session.SamplingClientIdValue0 V    _ ? Session.SubAppName Session.VirtualizationType0  User.PrimaryIdentityHashia58786a0da8cc3ca User.PrimaryIdentitySpaceiMSACID User.TenantGroupi
+E_Not_Init 
+User.TenantId0 
+                 zC.Activity.ResultiOffice.System.Result 
+zC.Data.DociOffice.Document.DocMetadata   )3.0I=Office_System_SystemHealthDesktopSessionLifecycleAndHeartbeatq         "o:cd836626611c4caaa8fc5b2e728ee81d   
+i"Micro-Star International Co., Ltd.  MS-7C94  
+  
+I&c:b4a1ba95-ac93-4230-b88a-a81cade2527a Windows.Desktop  
+ Windows Desktop ,10.0.26100.1.amd64fre.ge_release.240331-1435  
+ EXCEL 16.0.14332.20281 EXCEL  
+I	Unmeteredi Unknown   
+)EVT-Windows-C++-No-3.4.15.1I$72675490-0A26-4370-8810-A51E2B87E391q$  !
+i+09:00  %
+  <custom.office_legacy_lifecycle F
+-	
+=
+App.BranchiFork App.InstallType0   App.NameiExcel App.PlatformiWin32 
+App.Versioni16.0.14332.20281 	Client.Id0 
+      @ J<MӚ
+j "Consent.AddInContentSourceLocation0   Consent.AddInContentState0   1Consent.ControllerConnectedServicesSourceLocation0   (Consent.ControllerConnectedServicesState0  Consent.DiagnosticConsentLevel0   ,Consent.DiagnosticConsentLevelSourceLocation0  !Consent.DiagnosticDataConsentTime0   ˩     %Consent.DownloadContentSourceLocation0   Consent.DownloadContentState0  Consent.ServiceConnectionState0   ,Consent.ServiceConnectionStateSourceLocation0   Consent.UserCategoryValue0   *Consent.UserContentDependentSourceLocation0   !Consent.UserContentDependentState0  Data.InstallMethod0  Data.OfficeArchitectureTextix64 Data.PreviousBuildi Unknown 
+Data.State0   	Data.Time0  ۚ      Device.OsBuildi26100 Device.OsVersioni10.0 Event.ContractiOffice.Legacy.Lifecycle 
+Event.Flags0         x Event.Idi'434c1516-2411-455f-b892-dd527f497633.32 
+Event.Namei=Office.System.SystemHealthDesktopSessionLifecycleAndHeartbeat 
+Event.Rulei120107.6 Event.RuleInterfacesi	Lifecycle Event.SampleRate0        ? Event.SchemaVersion0   Event.Sequence0  @ Event.SourceiMso 
+Event.Time0  ۚ      EventInfo.Level0   Legacy.AppId0   Legacy.OsEnv0   Release.AudienceiProduction_LTSC2021 Release.AudienceGroupi
+Production Release.ChanneliLTSC2021 Release.Forki2107-Jul Session.EcsETagi."Eb2DQ/9o5N3j77wL0E+ZutYdweskdB3uM18+kwfKF6I=" 
+Session.Flags0      
+Session.Idi$434c1516-2411-455f-b892-dd527f497633 Session.MeasuresEnabled0 Session.SamplingClientIdValue0 V    _ ? Session.SubAppName Session.VirtualizationType0  User.PrimaryIdentityHashia58786a0da8cc3ca User.PrimaryIdentitySpaceiMSACID User.TenantGroupi
+E_Not_Init 
+User.TenantId0 
+                 zP.Data.InstallMethod0   zP.Data.OfficeArchitectureText0   zP.Data.PreviousBuild0   
+zP.Data.State0   zP.Data.Time0    
+
+
+)3.0IOffice_Excel_Coauth_OpenFileq ˬϖ   "o:0d96bb3db51349c6ad8309ed1858d441   
+i"Micro-Star International Co., Ltd.  MS-7C94  
+  
+I&c:b4a1ba95-ac93-4230-b88a-a81cade2527a Windows.Desktop  
+ Windows Desktop ,10.0.26100.1.amd64fre.ge_release.240331-1435  
+ EXCEL 16.0.14332.20281 EXCEL  
+I	Unmeteredi Unknown   
+)EVT-Windows-C++-No-3.4.15.1I$1791B69D-33FA-4D4C-A7DF-2A1B962B8A20q  !
+i+09:00  %
+  <custom.office_system_activity F
+-	
+kActivity.AggMode0  
+Activity.CViFhVMQxEkX0W4kt1Sf0l2Mw.83.1.2 Activity.Count0   Activity.Duration0    9 Activity.Result.Code0  Activity.Result.Tag0      Activity.Result.Typei HRESULT Activity.Success0  
+App.BranchiFork App.InstallType0   App.NameiExcel App.PlatformiWin32 
+App.Versioni16.0.14332.20281 	Client.Id0 
+      @ J<MӚ
+j "Consent.AddInContentSourceLocation0   Consent.AddInContentState0   1Consent.ControllerConnectedServicesSourceLocation0   (Consent.ControllerConnectedServicesState0  Consent.DiagnosticConsentLevel0   ,Consent.DiagnosticConsentLevelSourceLocation0  !Consent.DiagnosticDataConsentTime0   ˩     %Consent.DownloadContentSourceLocation0   Consent.DownloadContentState0  Consent.ServiceConnectionState0   ,Consent.ServiceConnectionStateSourceLocation0   Consent.UserCategoryValue0   *Consent.UserContentDependentSourceLocation0   !Consent.UserContentDependentState0  Data.AutoRecoverBookEnabled0  "Data.AutoRecoverBookSessionEnabled0  Data.CoauthEnabled0 Data.CountFishbowlEnd0  Data.CountFishbowlStart0  #Data.CountOpenedVisibleWorkbooksEnd0   %Data.CountOpenedVisibleWorkbooksStart0   Data.CountOpenedWorkbooksEnd0   Data.CountOpenedWorkbooksStart0   Data.Doc.CreationTime0   ɉ ꐥ  Data.Doc.EdpState0   Data.Doc.Extixls Data.Doc.FileFormat0     Data.Doc.LastModifiedTime0     ꐥ  Data.Doc.Location0  Data.Doc.SessionId0   Data.Doc.SizeInBytes0  ܵ Data.Doc.StorageProviderIdicomputer Data.Doc.UrlHashK
++
+0  i$64C55D53-3C9B-4B2D-880B-6699DC2F0CEB Data.ErrorTagsi%[{"tag": "cy205", "hr": -2147467260}] Data.FCorrupted0 
+Data.FErrorOn0  "Data.FInLoadWhenCallingHrLoadMetro0  Data.FUdfNeedsRecalc0 Data.FileIOClpState0  Data.FileLoadFlags0   @ Data.FishbowlEnd0 Data.FishbowlStart0 
+Data.Hidden0  Data.InAutomation0 Data.InclusiveMeasurementsi.cZ10eb468eu2ew22eA2eU11fw50fy148ge20a0ymo0b468 Data.IsBootOpen0 Data.IsFTempFileFromCsiEnabled0 Data.IsStartupFile0  Data.LoadFromStreamReason0   Data.LoadReason0  $ Data.Measurementsi.cZ10eb197eu2ew22eA2eU11fw50fy148ge20a2ymo0b468 Data.NoShowAlertReason0  
+ Data.PathLength0    Data.RecalcMode0   Data.RestartLoadCount0  Data.SavedRupBuild0   Data.ScanRequiredResult0   Data.SecureReaderState0  Data.WorkbookIdi&{29BAEFA3-D1CC-46C0-B663-81B95508F65A} Data.cMsoShapes0  Data.numShapes0  Device.OsBuildi26100 Device.OsVersioni10.0 Event.CViFhVMQxEkX0W4kt1Sf0l2Mw.83.1.2 Event.ContractiOffice.System.Activity 
+Event.Flags0         d Event.Idi'434c1516-2411-455f-b892-dd527f497633.33 
+Event.NameiOffice.Excel.Coauth.OpenFile Event.SampleRate0        ? Event.SchemaVersion0   Event.Sequence0  B Event.SourceiMso 
+Event.Time0   ʬϖ   EventInfo.Level0   Legacy.AppId0   Legacy.OsEnv0   Release.AudienceiProduction_LTSC2021 Release.AudienceGroupi
+Production Release.ChanneliLTSC2021 Release.Forki2107-Jul Session.EcsETagi."Eb2DQ/9o5N3j77wL0E+ZutYdweskdB3uM18+kwfKF6I=" 
+Session.Flags0      
+Session.Idi$434c1516-2411-455f-b892-dd527f497633 Session.MeasuresEnabled0 Session.SamplingClientIdValue0 V    _ ? Session.SubAppName Session.VirtualizationType0  User.PrimaryIdentityHashia58786a0da8cc3ca User.PrimaryIdentitySpaceiMSACID User.TenantGroupi
+E_Not_Init 
+User.TenantId0 
+                 zC.Activity.ResultiOffice.System.Result 
+zC.Data.DociOffice.Document.DocMetadata   )3.0I=Office_System_SystemHealthDesktopSessionLifecycleAndHeartbeatq         "o:cd836626611c4caaa8fc5b2e728ee81d   
+i"Micro-Star International Co., Ltd.  MS-7C94  
+  
+I&c:b4a1ba95-ac93-4230-b88a-a81cade2527a Windows.Desktop  
+ Windows Desktop ,10.0.26100.1.amd64fre.ge_release.240331-1435  
+ EXCEL 16.0.14332.20281 EXCEL  
+I	Unmeteredi Unknown   
+)EVT-Windows-C++-No-3.4.15.1I$72675490-0A26-4370-8810-A51E2B87E391q$  !
+i+09:00  %
+  <custom.office_legacy_lifecycle F
+-	
+=
+App.BranchiFork App.InstallType0   App.NameiExcel App.PlatformiWin32 
+App.Versioni16.0.14332.20281 	Client.Id0 
+      @ J<MӚ
+j "Consent.AddInContentSourceLocation0   Consent.AddInContentState0   1Consent.ControllerConnectedServicesSourceLocation0   (Consent.ControllerConnectedServicesState0  Consent.DiagnosticConsentLevel0   ,Consent.DiagnosticConsentLevelSourceLocation0  !Consent.DiagnosticDataConsentTime0   ˩     %Consent.DownloadContentSourceLocation0   Consent.DownloadContentState0  Consent.ServiceConnectionState0   ,Consent.ServiceConnectionStateSourceLocation0   Consent.UserCategoryValue0   *Consent.UserContentDependentSourceLocation0   !Consent.UserContentDependentState0  Data.InstallMethod0  Data.OfficeArchitectureTextix64 Data.PreviousBuildi Unknown 
+Data.State0   	Data.Time0  ۚ      Device.OsBuildi26100 Device.OsVersioni10.0 Event.ContractiOffice.Legacy.Lifecycle 
+Event.Flags0         x Event.Idi'434c1516-2411-455f-b892-dd527f497633.32 
+Event.Namei=Office.System.SystemHealthDesktopSessionLifecycleAndHeartbeat 
+Event.Rulei120107.6 Event.RuleInterfacesi	Lifecycle Event.SampleRate0        ? Event.SchemaVersion0   Event.Sequence0  @ Event.SourceiMso 
+Event.Time0  ۚ      EventInfo.Level0   Legacy.AppId0   Legacy.OsEnv0   Release.AudienceiProduction_LTSC2021 Release.AudienceGroupi
+Production Release.ChanneliLTSC2021 Release.Forki2107-Jul Session.EcsETagi."Eb2DQ/9o5N3j77wL0E+ZutYdweskdB3uM18+kwfKF6I=" 
+Session.Flags0      
+Session.Idi$434c1516-2411-455f-b892-dd527f497633 Session.MeasuresEnabled0 Session.SamplingClientIdValue0 V    _ ? Session.SubAppName Session.VirtualizationType0  User.PrimaryIdentityHashia58786a0da8cc3ca User.PrimaryIdentitySpaceiMSACID User.TenantGroupi
+E_Not_Init 
+User.TenantId0 
+                 zP.Data.InstallMethod0   zP.Data.OfficeArchitectureText0   zP.Data.PreviousBuild0   
+zP.Data.State0   zP.Data.Time0    

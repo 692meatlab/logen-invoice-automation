@@ -1,0 +1,375 @@
+POST https://self.events.data.microsoft.com/OneCollector/1.0/ HTTP/1.1
+Accept: */*
+APIKey: 9c9dcb87a41b41bebea94330a23d828d-35611aa0-46ca-4351-98e0-5746b84e5be3-6973,c1a0db0127964674a0d62fde5ab0fe62-6ec4ac45-cebc-4f80-aa83-b6b9d3a86ed7-7719,cd836626611c4caaa8fc5b2e728ee81d-3b6d6c45-6377-4bf5-9792-dbf8e1881088-7521
+AuthMsaDeviceTicket: t=GwD2AbuEBAAUT8E2pcttyweiwH80omnEMQMzYo0OZgAAEBdqi9fIj99tqMh1/7KHm6TAAVBMbhYcabxN+KeKLM0EweYKX4wMiRQGMGiGtcvqAav0+s2Hyi4x3H5BS7baGTG5MqxVXPAKZNTL4F+GDLrhkJjTHq2dabqbIQpL++yM2tG8lydStDT1tm4Nm3gQmlPWdsnBjEiK2vrLV0IHrLvplOm+62ma7K/eYGNN2doMYGQnavQgwtQKuYc6ffQzHMRvrCA1dA0bKWk1jYcaj5Oy9fWgKu/hXIYEExsOpUWJLnb7S7ofIyZg3nPEszlnngDpUsv9IHV1QajT9E1033SzDa+c5DQ9d8KYfI9/dNwzUqMvRKbdvb4wMYmVa0razEOZSVsOusebA1eVXIdurV+vlje50Mozx6ZmKbvjHU7PGRCyXYzOPl7X8HMNImtt61zGzsT6QyLZt//LmdHZY3Cau7ja89Y+daLYLlSjOT074bZajD6zmPQmJEsND3ZQiMAG53kTtaSQAFduJ8gv8l1l3Gj6MZPPa8bBwShHzCJvcqBsGkdTpg7aXFXqxDkGFfOMvP/ipsj8nt5tppF7YhH6eJkHtNLp6BflW0k+ArmhbXaIZBJcuAH5Rt6C1Iq/3KOc3PrRE3Wr6rl4MPPXdBcRRO76AQ==&p=
+Client-Id: NO_AUTH
+Content-Encoding: deflate
+Content-Type: application/bond-compact-binary
+Expect: 100-continue
+SDK-Version: EVT-Windows-C++-No-3.4.15.1
+Upload-Time: 1761908012644
+Host: self.events.data.microsoft.com
+Content-Length: 4578
+Connection: Keep-Alive
+Cache-Control: no-cache
+
+)3.0I:Office_Licensing_OfficeClientLicensing_DoLicenseValidationq         "o:c1a0db0127964674a0d62fde5ab0fe62   
+i"Micro-Star International Co., Ltd.  MS-7C94  
+  
+I&c:b4a1ba95-ac93-4230-b88a-a81cade2527a Windows.Desktop  
+ Windows Desktop ,10.0.26100.1.amd64fre.ge_release.240331-1435  
+ EXCEL 16.0.14332.20281 EXCEL  
+I	Unmeteredi Unknown   
+)EVT-Windows-C++-No-3.4.15.1I$141A9E63-7951-4609-A836-1A400C441A49q  !
+i+09:00  %
+  <custom.office_legacy_metadata F
+-	
+I
+App.BranchiFork App.InstallType0   App.NameiExcel App.PlatformiWin32 
+App.Versioni16.0.14332.20281 	Client.Id0 
+      @ J<MӚ
+j "Consent.AddInContentSourceLocation0   Consent.AddInContentState0   1Consent.ControllerConnectedServicesSourceLocation0   (Consent.ControllerConnectedServicesState0  Consent.DiagnosticConsentLevel0   ,Consent.DiagnosticConsentLevelSourceLocation0  !Consent.DiagnosticDataConsentTime0   ˩     %Consent.DownloadContentSourceLocation0   Consent.DownloadContentState0  Consent.ServiceConnectionState0   ,Consent.ServiceConnectionStateSourceLocation0   Consent.UserCategoryValue0   *Consent.UserContentDependentSourceLocation0   !Consent.UserContentDependentState0  
+Data.IsEdu0 
+Data.IsRFM0 
+Data.IsSCA0 Data.IsSubscription0 Data.IsvNext0 Data.LicenseCategory0    Data.LicenseStatus0   Data.LicenseType0   Data.LicensingACID0 
+>  勉O    ` 	  Data.LicensingMode0  Data.OlsLicenseIdi04709-000-000000 Device.OsBuildi26100 Device.OsVersioni10.0 Event.ContractiOffice.Legacy.Metadata 
+Event.Flags0         x Event.Idi'394cbe7b-3799-4191-8540-e41ff3282823.10 
+Event.Namei:Office.Licensing.OfficeClientLicensing.DoLicenseValidation 
+Event.Rulei	224901.11 Event.RuleInterfacesiMetadata Event.SampleRate0        ? Event.SchemaVersion0   Event.Sequence0   Event.SourceiMso 
+Event.Time0  춸     EventInfo.Level0   Legacy.AppId0   Legacy.OsEnv0   Release.AudienceiProduction_LTSC2021 Release.AudienceGroupi
+Production Release.ChanneliLTSC2021 Release.Forki2107-Jul Session.EcsETagi."Eb2DQ/9o5N3j77wL0E+ZutYdweskdB3uM18+kwfKF6I=" 
+Session.Flags0      
+Session.Idi$394cbe7b-3799-4191-8540-e41ff3282823 Session.MeasuresEnabled0 Session.SamplingClientIdValue0 V    _ ? Session.SubAppName Session.VirtualizationType0  User.PrimaryIdentityHashia58786a0da8cc3ca User.PrimaryIdentitySpaceiMSACID User.TenantGroupi
+E_Not_Init 
+User.TenantId0 
+                 
+zP.Data.IsEdu0   
+zP.Data.IsRFM0   
+zP.Data.IsSCA0   zP.Data.IsSubscription0  
+ zP.Data.IsvNext0   zP.Data.LicenseCategory0   zP.Data.LicenseStatus0   zP.Data.LicenseType0   zP.Data.LicensingACID0   zP.Data.LicensingMode0   zP.Data.OlsLicenseId0     )3.0I:Office_Licensing_OfficeClientLicensing_DoLicenseValidationq         "o:c1a0db0127964674a0d62fde5ab0fe62   
+i"Micro-Star International Co., Ltd.  MS-7C94  
+  
+I&c:b4a1ba95-ac93-4230-b88a-a81cade2527a Windows.Desktop  
+ Windows Desktop ,10.0.26100.1.amd64fre.ge_release.240331-1435  
+ EXCEL 16.0.14332.20281 EXCEL  
+I	Unmeteredi Unknown   
+)EVT-Windows-C++-No-3.4.15.1I$141A9E63-7951-4609-A836-1A400C441A49q  !
+i+09:00  %
+  <custom.office_legacy_metadata F
+-	
+I
+App.BranchiFork App.InstallType0   App.NameiExcel App.PlatformiWin32 
+App.Versioni16.0.14332.20281 	Client.Id0 
+      @ J<MӚ
+j "Consent.AddInContentSourceLocation0   Consent.AddInContentState0   1Consent.ControllerConnectedServicesSourceLocation0   (Consent.ControllerConnectedServicesState0  Consent.DiagnosticConsentLevel0   ,Consent.DiagnosticConsentLevelSourceLocation0  !Consent.DiagnosticDataConsentTime0   ˩     %Consent.DownloadContentSourceLocation0   Consent.DownloadContentState0  Consent.ServiceConnectionState0   ,Consent.ServiceConnectionStateSourceLocation0   Consent.UserCategoryValue0   *Consent.UserContentDependentSourceLocation0   !Consent.UserContentDependentState0  
+Data.IsEdu0 
+Data.IsRFM0 
+Data.IsSCA0 Data.IsSubscription0 Data.IsvNext0 Data.LicenseCategory0    Data.LicenseStatus0   Data.LicenseType0   Data.LicensingACID0 
+>  勉O    ` 	  Data.LicensingMode0  Data.OlsLicenseIdi04709-000-000000 Device.OsBuildi26100 Device.OsVersioni10.0 Event.ContractiOffice.Legacy.Metadata 
+Event.Flags0         x Event.Idi&394cbe7b-3799-4191-8540-e41ff3282823.5 
+Event.Namei:Office.Licensing.OfficeClientLicensing.DoLicenseValidation 
+Event.Rulei	224901.11 Event.RuleInterfacesiMetadata Event.SampleRate0        ? Event.SchemaVersion0   Event.Sequence0  
+ Event.SourceiMso 
+Event.Time0 Ф       EventInfo.Level0   Legacy.AppId0   Legacy.OsEnv0   Release.AudienceiProduction_LTSC2021 Release.AudienceGroupi
+Production Release.ChanneliLTSC2021 Release.Forki2107-Jul Session.EcsETagi."Eb2DQ/9o5N3j77wL0E+ZutYdweskdB3uM18+kwfKF6I=" 
+Session.Flags0      
+Session.Idi$394cbe7b-3799-4191-8540-e41ff3282823 Session.MeasuresEnabled0 Session.SamplingClientIdValue0 V    _ ? Session.SubAppName Session.VirtualizationType0  User.PrimaryIdentityHashia58786a0da8cc3ca User.PrimaryIdentitySpaceiMSACID User.TenantGroupi
+E_Not_Init 
+User.TenantId0 
+                 
+zP.Data.IsEdu0   
+zP.Data.IsRFM0   
+zP.Data.IsSCA0   zP.Data.IsSubscription0  
+ zP.Data.IsvNext0   zP.Data.LicenseCategory0   zP.Data.LicenseStatus0   zP.Data.LicenseType0   zP.Data.LicensingACID0   zP.Data.LicensingMode0   zP.Data.OlsLicenseId0     )3.0IOffice_Licensing_FullValidationq         "o:c1a0db0127964674a0d62fde5ab0fe62   
+i"Micro-Star International Co., Ltd.  MS-7C94  
+  
+I&c:b4a1ba95-ac93-4230-b88a-a81cade2527a Windows.Desktop  
+ Windows Desktop ,10.0.26100.1.amd64fre.ge_release.240331-1435  
+ EXCEL 16.0.14332.20281 EXCEL  
+I	Unmeteredi Unknown   
+)EVT-Windows-C++-No-3.4.15.1I$141A9E63-7951-4609-A836-1A400C441A49q  !
+i+09:00  %
+  <custom.office_system_activity F
+-	
+AActivity.AggMode0  
+Activity.CVie75MOZk3kUGFQOQf8ygoIw.14 Activity.Count0   Activity.Duration0    I Activity.Result.Code0  Activity.Result.Typei HRESULT Activity.Success0  
+App.BranchiFork App.InstallType0   App.NameiExcel App.PlatformiWin32 
+App.Versioni16.0.14332.20281 	Client.Id0 
+      @ J<MӚ
+j "Consent.AddInContentSourceLocation0   Consent.AddInContentState0   1Consent.ControllerConnectedServicesSourceLocation0   (Consent.ControllerConnectedServicesState0  Consent.DiagnosticConsentLevel0   ,Consent.DiagnosticConsentLevelSourceLocation0  !Consent.DiagnosticDataConsentTime0   ˩     %Consent.DownloadContentSourceLocation0   Consent.DownloadContentState0  Consent.ServiceConnectionState0   ,Consent.ServiceConnectionStateSourceLocation0   Consent.UserCategoryValue0   *Consent.UserContentDependentSourceLocation0   !Consent.UserContentDependentState0  	Data.Acidi&{FBDB3E18-A8EF-4FB3-9183-DFFD60BD0984} Data.ActivationAttributes0   Data.IsSessionLicensing0 Data.LicenseCategory0    Data.LicenseStatusesi1; 
+Data.Licensesi7Office 21, Office21ProPlus2021VL_KMS_Client_AE edition; Data.ValidAcidsi'{FBDB3E18-A8EF-4FB3-9183-DFFD60BD0984}, Device.OsBuildi26100 Device.OsVersioni10.0 Event.CVie75MOZk3kUGFQOQf8ygoIw.14 Event.ContractiOffice.System.Activity 
+Event.Flags0         x Event.Idi'394cbe7b-3799-4191-8540-e41ff3282823.12 
+Event.NameiOffice.Licensing.FullValidation Event.SampleRate0        ? Event.SchemaVersion0   Event.Sequence0   Event.SourceiMso 
+Event.Time0          EventInfo.Level0   Legacy.AppId0   Legacy.OsEnv0   Release.AudienceiProduction_LTSC2021 Release.AudienceGroupi
+Production Release.ChanneliLTSC2021 Release.Forki2107-Jul Session.EcsETagi."Eb2DQ/9o5N3j77wL0E+ZutYdweskdB3uM18+kwfKF6I=" 
+Session.Flags0      
+Session.Idi$394cbe7b-3799-4191-8540-e41ff3282823 Session.MeasuresEnabled0 Session.SamplingClientIdValue0 V    _ ? Session.SubAppName Session.VirtualizationType0  User.PrimaryIdentityHashia58786a0da8cc3ca User.PrimaryIdentitySpaceiMSACID User.TenantGroupi
+E_Not_Init 
+User.TenantId0 
+                 zC.Activity.ResultiOffice.System.Result   )3.0I*Office_System_SystemHealthSessionStartTimeq         "o:cd836626611c4caaa8fc5b2e728ee81d   
+i"Micro-Star International Co., Ltd.  MS-7C94  
+  
+I&c:b4a1ba95-ac93-4230-b88a-a81cade2527a Windows.Desktop  
+ Windows Desktop ,10.0.26100.1.amd64fre.ge_release.240331-1435  
+ EXCEL 16.0.14332.20281 EXCEL  
+I	Unmeteredi Unknown   
+)EVT-Windows-C++-No-3.4.15.1I$CFE18827-CED3-45CD-B3E0-63184AB5ABD1q  !
+i+09:00  %
+  <custom.office_legacy_metadata F
+-	
+6
+App.BranchiFork App.InstallType0   App.NameiExcel App.PlatformiWin32 
+App.Versioni16.0.14332.20281 	Client.Id0 
+      @ J<MӚ
+j "Consent.AddInContentSourceLocation0   Consent.AddInContentState0   1Consent.ControllerConnectedServicesSourceLocation0   (Consent.ControllerConnectedServicesState0  Consent.DiagnosticConsentLevel0   ,Consent.DiagnosticConsentLevelSourceLocation0  !Consent.DiagnosticDataConsentTime0   ˩     %Consent.DownloadContentSourceLocation0   Consent.DownloadContentState0  Consent.ServiceConnectionState0   ,Consent.ServiceConnectionStateSourceLocation0   Consent.UserCategoryValue0   *Consent.UserContentDependentSourceLocation0   !Consent.UserContentDependentState0  Data.SessionStart0 Ф       Device.OsBuildi26100 Device.OsVersioni10.0 Event.ContractiOffice.Legacy.Metadata 
+Event.Flags0         x Event.Idi&394cbe7b-3799-4191-8540-e41ff3282823.2 
+Event.Namei*Office.System.SystemHealthSessionStartTime 
+Event.Rulei120112.1 Event.RuleInterfacesiMetadata Event.SampleRate0        ? Event.SchemaVersion0   Event.Sequence0   Event.SourceiMso 
+Event.Time0 Ф       EventInfo.Level0   Legacy.AppId0   Legacy.OsEnv0   Release.AudienceiProduction_LTSC2021 Release.AudienceGroupi
+Production Release.ChanneliLTSC2021 Release.Forki2107-Jul Session.EcsETagi."Eb2DQ/9o5N3j77wL0E+ZutYdweskdB3uM18+kwfKF6I=" 
+Session.Flags0      
+Session.Idi$394cbe7b-3799-4191-8540-e41ff3282823 Session.MeasuresEnabled0 Session.SamplingClientIdValue0 V    _ ? Session.SubAppName Session.VirtualizationType0  User.PrimaryIdentityHashia58786a0da8cc3ca User.PrimaryIdentitySpaceiMSACID User.TenantGroupi
+E_Not_Init 
+User.TenantId0 
+                 zDC.Data.SessionStartiESM zP.Data.SessionStart0    )3.0I1Office_System_SystemHealthRollbackSessionMetadataq         "o:cd836626611c4caaa8fc5b2e728ee81d   
+i"Micro-Star International Co., Ltd.  MS-7C94  
+  
+I&c:b4a1ba95-ac93-4230-b88a-a81cade2527a Windows.Desktop  
+ Windows Desktop ,10.0.26100.1.amd64fre.ge_release.240331-1435  
+ EXCEL 16.0.14332.20281 EXCEL  
+I	Unmeteredi Unknown   
+)EVT-Windows-C++-No-3.4.15.1I$CFE18827-CED3-45CD-B3E0-63184AB5ABD1q  !
+i+09:00  %
+  <custom.office_legacy_metadata F
+-	
+7
+App.BranchiFork App.InstallType0   App.NameiExcel App.PlatformiWin32 
+App.Versioni16.0.14332.20281 	Client.Id0 
+      @ J<MӚ
+j "Consent.AddInContentSourceLocation0   Consent.AddInContentState0   1Consent.ControllerConnectedServicesSourceLocation0   (Consent.ControllerConnectedServicesState0  Consent.DiagnosticConsentLevel0   ,Consent.DiagnosticConsentLevelSourceLocation0  !Consent.DiagnosticDataConsentTime0   ˩     %Consent.DownloadContentSourceLocation0   Consent.DownloadContentState0  Consent.ServiceConnectionState0   ,Consent.ServiceConnectionStateSourceLocation0   Consent.UserCategoryValue0   *Consent.UserContentDependentSourceLocation0   !Consent.UserContentDependentState0  Data.InstallMethod0  Data.PreviousBuildi Unknown Device.OsBuildi26100 Device.OsVersioni10.0 Event.ContractiOffice.Legacy.Metadata 
+Event.Flags0         x Event.Idi'394cbe7b-3799-4191-8540-e41ff3282823.11 
+Event.Namei1Office.System.SystemHealthRollbackSessionMetadata 
+Event.Rulei120119.0 Event.RuleInterfacesiMetadata Event.SampleRate0        ? Event.SchemaVersion0   Event.Sequence0   Event.SourceiMso 
+Event.Time0          EventInfo.Level0   Legacy.AppId0   Legacy.OsEnv0   Release.AudienceiProduction_LTSC2021 Release.AudienceGroupi
+Production Release.ChanneliLTSC2021 Release.Forki2107-Jul Session.EcsETagi."Eb2DQ/9o5N3j77wL0E+ZutYdweskdB3uM18+kwfKF6I=" 
+Session.Flags0      
+Session.Idi$394cbe7b-3799-4191-8540-e41ff3282823 Session.MeasuresEnabled0 Session.SamplingClientIdValue0 V    _ ? Session.SubAppName Session.VirtualizationType0  User.PrimaryIdentityHashia58786a0da8cc3ca User.PrimaryIdentitySpaceiMSACID User.TenantGroupi
+E_Not_Init 
+User.TenantId0 
+                 zP.Data.InstallMethod0   zP.Data.PreviousBuild0    )3.0I1Office_System_SystemHealthRollbackSessionMetadataq         "o:cd836626611c4caaa8fc5b2e728ee81d   
+i"Micro-Star International Co., Ltd.  MS-7C94  
+  
+I&c:b4a1ba95-ac93-4230-b88a-a81cade2527a Windows.Desktop  
+ Windows Desktop ,10.0.26100.1.amd64fre.ge_release.240331-1435  
+ EXCEL 16.0.14332.20281 EXCEL  
+I	Unmeteredi Unknown   
+)EVT-Windows-C++-No-3.4.15.1I$CFE18827-CED3-45CD-B3E0-63184AB5ABD1q  !
+i+09:00  %
+  <custom.office_legacy_metadata F
+-	
+7
+App.BranchiFork App.InstallType0   App.NameiExcel App.PlatformiWin32 
+App.Versioni16.0.14332.20281 	Client.Id0 
+      @ J<MӚ
+j "Consent.AddInContentSourceLocation0   Consent.AddInContentState0   1Consent.ControllerConnectedServicesSourceLocation0   (Consent.ControllerConnectedServicesState0  Consent.DiagnosticConsentLevel0   ,Consent.DiagnosticConsentLevelSourceLocation0  !Consent.DiagnosticDataConsentTime0   ˩     %Consent.DownloadContentSourceLocation0   Consent.DownloadContentState0  Consent.ServiceConnectionState0   ,Consent.ServiceConnectionStateSourceLocation0   Consent.UserCategoryValue0   *Consent.UserContentDependentSourceLocation0   !Consent.UserContentDependentState0  Data.InstallMethod0  Data.PreviousBuildi Unknown Device.OsBuildi26100 Device.OsVersioni10.0 Event.ContractiOffice.Legacy.Metadata 
+Event.Flags0         x Event.Idi&394cbe7b-3799-4191-8540-e41ff3282823.9 
+Event.Namei1Office.System.SystemHealthRollbackSessionMetadata 
+Event.Rulei120119.0 Event.RuleInterfacesiMetadata Event.SampleRate0        ? Event.SchemaVersion0   Event.Sequence0   Event.SourceiMso 
+Event.Time0   ·     EventInfo.Level0   Legacy.AppId0   Legacy.OsEnv0   Release.AudienceiProduction_LTSC2021 Release.AudienceGroupi
+Production Release.ChanneliLTSC2021 Release.Forki2107-Jul Session.EcsETagi."Eb2DQ/9o5N3j77wL0E+ZutYdweskdB3uM18+kwfKF6I=" 
+Session.Flags0      
+Session.Idi$394cbe7b-3799-4191-8540-e41ff3282823 Session.MeasuresEnabled0 Session.SamplingClientIdValue0 V    _ ? Session.SubAppName Session.VirtualizationType0  User.PrimaryIdentityHashia58786a0da8cc3ca User.PrimaryIdentitySpaceiMSACID User.TenantGroupi
+E_Not_Init 
+User.TenantId0 
+                 zP.Data.InstallMethod0   zP.Data.PreviousBuild0    )3.0I=Office_System_SystemHealthDesktopSessionLifecycleAndHeartbeatq         "o:cd836626611c4caaa8fc5b2e728ee81d   
+i"Micro-Star International Co., Ltd.  MS-7C94  
+  
+I&c:b4a1ba95-ac93-4230-b88a-a81cade2527a Windows.Desktop  
+ Windows Desktop ,10.0.26100.1.amd64fre.ge_release.240331-1435  
+ EXCEL 16.0.14332.20281 EXCEL  
+I	Unmeteredi Unknown   
+)EVT-Windows-C++-No-3.4.15.1I$CFE18827-CED3-45CD-B3E0-63184AB5ABD1q  !
+i+09:00  %
+  <custom.office_legacy_lifecycle F
+-	
+=
+App.BranchiFork App.InstallType0   App.NameiExcel App.PlatformiWin32 
+App.Versioni16.0.14332.20281 	Client.Id0 
+      @ J<MӚ
+j "Consent.AddInContentSourceLocation0   Consent.AddInContentState0   1Consent.ControllerConnectedServicesSourceLocation0   (Consent.ControllerConnectedServicesState0  Consent.DiagnosticConsentLevel0   ,Consent.DiagnosticConsentLevelSourceLocation0  !Consent.DiagnosticDataConsentTime0   ˩     %Consent.DownloadContentSourceLocation0   Consent.DownloadContentState0  Consent.ServiceConnectionState0   ,Consent.ServiceConnectionStateSourceLocation0   Consent.UserCategoryValue0   *Consent.UserContentDependentSourceLocation0   !Consent.UserContentDependentState0  Data.InstallMethod0  Data.OfficeArchitectureTextix64 Data.PreviousBuildi Unknown 
+Data.State0  	Data.Time0          Device.OsBuildi26100 Device.OsVersioni10.0 Event.ContractiOffice.Legacy.Lifecycle 
+Event.Flags0         x Event.Idi&394cbe7b-3799-4191-8540-e41ff3282823.8 
+Event.Namei=Office.System.SystemHealthDesktopSessionLifecycleAndHeartbeat 
+Event.Rulei120107.6 Event.RuleInterfacesi	Lifecycle Event.SampleRate0        ? Event.SchemaVersion0   Event.Sequence0   Event.SourceiMso 
+Event.Time0   ·     EventInfo.Level0   Legacy.AppId0   Legacy.OsEnv0   Release.AudienceiProduction_LTSC2021 Release.AudienceGroupi
+Production Release.ChanneliLTSC2021 Release.Forki2107-Jul Session.EcsETagi."Eb2DQ/9o5N3j77wL0E+ZutYdweskdB3uM18+kwfKF6I=" 
+Session.Flags0      
+Session.Idi$394cbe7b-3799-4191-8540-e41ff3282823 Session.MeasuresEnabled0 Session.SamplingClientIdValue0 V    _ ? Session.SubAppName Session.VirtualizationType0  User.PrimaryIdentityHashia58786a0da8cc3ca User.PrimaryIdentitySpaceiMSACID User.TenantGroupi
+E_Not_Init 
+User.TenantId0 
+                 zP.Data.InstallMethod0   zP.Data.OfficeArchitectureText0   zP.Data.PreviousBuild0   
+zP.Data.State0   zP.Data.Time0    )3.0I7Office_System_SystemHealthMetadataApplicationAdditionalq         "o:cd836626611c4caaa8fc5b2e728ee81d   
+i"Micro-Star International Co., Ltd.  MS-7C94  
+  
+I&c:b4a1ba95-ac93-4230-b88a-a81cade2527a Windows.Desktop  
+ Windows Desktop ,10.0.26100.1.amd64fre.ge_release.240331-1435  
+ EXCEL 16.0.14332.20281 EXCEL  
+I	Unmeteredi Unknown   
+)EVT-Windows-C++-No-3.4.15.1I$CFE18827-CED3-45CD-B3E0-63184AB5ABD1q
+  !
+i+09:00  %
+  <custom.office_legacy_metadata F
+-	
+K
+App.BranchiFork App.InstallType0   App.NameiExcel App.PlatformiWin32 
+App.Versioni16.0.14332.20281 	Client.Id0 
+      @ J<MӚ
+j "Consent.AddInContentSourceLocation0   Consent.AddInContentState0   1Consent.ControllerConnectedServicesSourceLocation0   (Consent.ControllerConnectedServicesState0  Consent.DiagnosticConsentLevel0   ,Consent.DiagnosticConsentLevelSourceLocation0  !Consent.DiagnosticDataConsentTime0   ˩     %Consent.DownloadContentSourceLocation0   Consent.DownloadContentState0  Consent.ServiceConnectionState0   ,Consent.ServiceConnectionStateSourceLocation0   Consent.UserCategoryValue0   *Consent.UserContentDependentSourceLocation0   !Consent.UserContentDependentState0  Data.CIDia58786a0da8cc3ca_LiveId Data.CollectibleClassifications0  
+ Data.ECSConfigsi P-R-1098158-1-5,P-R-26146-5-17,P-D-29635-1-1,P-D-27087-1-9,P-R-79688-1-3,P-X-98518-1-9,blockedgraphicsadaptercount:516871,P-X-1281009-2-3,P-R-1281011-2-1,ig4dj601:592005,P-R-75399-1-5,P-R-92832-14-13,P-R-18425-14-62,P-R-18426-9-30,P-R-18424-9-34,P-R-111752-6-8,P-R-1123376-10-14,P-R-1009855-12-14,P-R-98856-50-54,P-R-18513-1-30,P-R-19262-2-12,P-R-1641587-1-6,P-R-1583865-1-6,P-R-1563945-1-8,P-R-1128630-1-7,P-R-1098412-1-5,P-R-1091267-1-59,P-R-81720-1-2,P-R-58406-1-5,P-D-50697-2-4,P-D-29719-1-1,P-D-29718-1-1,P-D-29593-1-6 Data.FirstRunTime0    ӟ    Data.IsJoinedToDomain0 Data.IsLabMachine0 Data.IsMsftInternal0 Data.IsSubscription0 
+Data.LockType0  h Data.SqmUserId0 
+      @ J<MӚ
+j Data.StudyId0  Data.WinUserActType0  Device.OsBuildi26100 Device.OsVersioni10.0 Event.ContractiOffice.Legacy.Metadata 
+Event.Flags0         x Event.Idi&394cbe7b-3799-4191-8540-e41ff3282823.7 
+Event.Namei7Office.System.SystemHealthMetadataApplicationAdditional 
+Event.Rulei120603.8 Event.RuleInterfacesiMetadata Event.SampleRate0        ? Event.SchemaVersion0   Event.Sequence0   Event.SourceiMso 
+Event.Time0  ݪ      EventInfo.Level0   Legacy.AppId0   Legacy.OsEnv0   Release.AudienceiProduction_LTSC2021 Release.AudienceGroupi
+Production Release.ChanneliLTSC2021 Release.Forki2107-Jul Session.EcsETagi."Eb2DQ/9o5N3j77wL0E+ZutYdweskdB3uM18+kwfKF6I=" 
+Session.Flags0      
+Session.Idi$394cbe7b-3799-4191-8540-e41ff3282823 Session.MeasuresEnabled0 Session.SamplingClientIdValue0 V    _ ? Session.SubAppName Session.VirtualizationType0  User.PrimaryIdentityHashia58786a0da8cc3ca User.PrimaryIdentitySpaceiMSACID User.TenantGroupi
+E_Not_Init 
+User.TenantId0 
+                 
+zP.Data.CID0   "zP.Data.CollectibleClassifications0   zP.Data.ECSConfigs0   zP.Data.FirstRunTime0  zP.Data.IsJoinedToDomain0   zP.Data.IsLabMachine0   zP.Data.IsMsftInternal0   zP.Data.IsSubscription0   zP.Data.LockType0   zP.Data.SqmUserId0   zP.Data.StudyId0   zP.Data.WinUserActType0  
+   )3.0I4Office_System_SystemHealthMetadataDeviceConsolidatedq         "o:cd836626611c4caaa8fc5b2e728ee81d   
+i"Micro-Star International Co., Ltd.  MS-7C94  
+  
+I&c:b4a1ba95-ac93-4230-b88a-a81cade2527a Windows.Desktop  
+ Windows Desktop ,10.0.26100.1.amd64fre.ge_release.240331-1435  
+ EXCEL 16.0.14332.20281 EXCEL  
+I	Unmeteredi Unknown   
+)EVT-Windows-C++-No-3.4.15.1I$CFE18827-CED3-45CD-B3E0-63184AB5ABD1q  !
+i+09:00  %
+  <custom.office_legacy_metadata F
+-	
+[
+App.BranchiFork App.InstallType0   App.NameiExcel App.PlatformiWin32 
+App.Versioni16.0.14332.20281 	Client.Id0 
+      @ J<MӚ
+j "Consent.AddInContentSourceLocation0   Consent.AddInContentState0   1Consent.ControllerConnectedServicesSourceLocation0   (Consent.ControllerConnectedServicesState0  Consent.DiagnosticConsentLevel0   ,Consent.DiagnosticConsentLevelSourceLocation0  !Consent.DiagnosticDataConsentTime0   ˩     %Consent.DownloadContentSourceLocation0   Consent.DownloadContentState0  Consent.ServiceConnectionState0   ,Consent.ServiceConnectionStateSourceLocation0   Consent.UserCategoryValue0   *Consent.UserContentDependentSourceLocation0   !Consent.UserContentDependentState0  Data.BootDiskTypeiSSD "Data.ComputerSystemProductUuidHashiASIKPmjRl+Yaq8/jBqmMCZBex2k= Data.DeviceManufactureri"Micro-Star International Co., Ltd. Data.DeviceModeli MS-7C94 Data.DeviceProcessorModeli/AMD Ryzen 5 5600X 6-Core Processor              Data.DigitizerInfo0    Data.HasSpectreFix0  
+Data.IsLaptop0 
+Data.IsTablet0  Data.NumProcPhysCores0   Data.NumProcShareSingleCache0   Data.NumProcShareSingleCore0   Data.PowerPlatformRole0   Data.ProcSpeedMHz0   9 Data.ProcTypeTextix64 Data.ProcessorCount0   
+Data.RamMB0     Data.SusClientId0 
+`]Ku 
+CJ   ౘA Data.SysVolSizeMB0    9 Data.WindowsSqmMachineId0 
+ :     B     H  Device.OsBuildi26100 Device.OsVersioni10.0 Event.ContractiOffice.Legacy.Metadata 
+Event.Flags0         x Event.Idi&394cbe7b-3799-4191-8540-e41ff3282823.6 
+Event.Namei4Office.System.SystemHealthMetadataDeviceConsolidated 
+Event.Rulei120600.6 Event.RuleInterfacesiMetadata Event.SampleRate0        ? Event.SchemaVersion0   Event.Sequence0   Event.SourceiMso 
+Event.Time0 Ф       EventInfo.Level0   Legacy.AppId0   Legacy.OsEnv0   Release.AudienceiProduction_LTSC2021 Release.AudienceGroupi
+Production Release.ChanneliLTSC2021 Release.Forki2107-Jul Session.EcsETagi."Eb2DQ/9o5N3j77wL0E+ZutYdweskdB3uM18+kwfKF6I=" 
+Session.Flags0      
+Session.Idi$394cbe7b-3799-4191-8540-e41ff3282823 Session.MeasuresEnabled0 Session.SamplingClientIdValue0 V    _ ? Session.SubAppName Session.VirtualizationType0  User.PrimaryIdentityHashia58786a0da8cc3ca User.PrimaryIdentitySpaceiMSACID User.TenantGroupi
+E_Not_Init 
+User.TenantId0 
+                 zP.Data.BootDiskType0  . %zP.Data.ComputerSystemProductUuidHash0  ( zP.Data.DeviceManufacturer0   zP.Data.DeviceModel0   zP.Data.DeviceProcessorModel0  * zP.Data.DigitizerInfo0   zP.Data.HasSpectreFix0  , zP.Data.IsLaptop0   zP.Data.IsTablet0   zP.Data.NumProcPhysCores0   zP.Data.NumProcShareSingleCache0   zP.Data.NumProcShareSingleCore0   zP.Data.PowerPlatformRole0   zP.Data.ProcSpeedMHz0  
+ zP.Data.ProcTypeText0  zP.Data.ProcessorCount0   
+zP.Data.RamMB0   zP.Data.SusClientId0  " zP.Data.SysVolSizeMB0   zP.Data.WindowsSqmMachineId0  $   )3.0I8Office_System_SystemHealthMetadataApplicationAndLanguageq         "o:cd836626611c4caaa8fc5b2e728ee81d   
+i"Micro-Star International Co., Ltd.  MS-7C94  
+  
+I&c:b4a1ba95-ac93-4230-b88a-a81cade2527a Windows.Desktop  
+ Windows Desktop ,10.0.26100.1.amd64fre.ge_release.240331-1435  
+ EXCEL 16.0.14332.20281 EXCEL  
+I	Unmeteredi Unknown   
+)EVT-Windows-C++-No-3.4.15.1I$CFE18827-CED3-45CD-B3E0-63184AB5ABD1q  !
+i+09:00  %
+  <custom.office_legacy_metadata F
+-	
+W
+App.BranchiFork App.InstallType0   App.NameiExcel App.PlatformiWin32 
+App.Versioni16.0.14332.20281 	Client.Id0 
+      @ J<MӚ
+j "Consent.AddInContentSourceLocation0   Consent.AddInContentState0   1Consent.ControllerConnectedServicesSourceLocation0   (Consent.ControllerConnectedServicesState0  Consent.DiagnosticConsentLevel0   ,Consent.DiagnosticConsentLevelSourceLocation0  !Consent.DiagnosticDataConsentTime0   ˩     %Consent.DownloadContentSourceLocation0   Consent.DownloadContentState0  Consent.ServiceConnectionState0   ,Consent.ServiceConnectionStateSourceLocation0   Consent.UserCategoryValue0   *Consent.UserContentDependentSourceLocation0   !Consent.UserContentDependentState0  
+Data.AppState0  @ !Data.Click2RunPackageVersionBuild0     !Data.Click2RunPackageVersionMajor0    !Data.Click2RunPackageVersionMinor0  $Data.Click2RunPackageVersionRevision0    Data.IsDebug0 Data.IsOEMInstalled0 Data.IsRoboticProcessAutomation0 Data.IsRunAsAdmin0 
+Data.IsWdag0 Data.OfficeArchitectureTextix64 Data.OfficeBuild0     Data.OfficeBuildRevision0    Data.OfficeMajorVer0    Data.OfficeMinorVer0  Data.OfficeMuiCount0   Data.OfficeSkuLanguageTagiko-KR Data.OfficeUiLangTagiko-KR Device.OsBuildi26100 Device.OsVersioni10.0 Event.ContractiOffice.Legacy.Metadata 
+Event.Flags0         x Event.Idi&394cbe7b-3799-4191-8540-e41ff3282823.4 
+Event.Namei8Office.System.SystemHealthMetadataApplicationAndLanguage 
+Event.Rulei120602.8 Event.RuleInterfacesiMetadata Event.SampleRate0        ? Event.SchemaVersion0   Event.Sequence0   Event.SourceiMso 
+Event.Time0 Ф       EventInfo.Level0   Legacy.AppId0   Legacy.OsEnv0   Release.AudienceiProduction_LTSC2021 Release.AudienceGroupi
+Production Release.ChanneliLTSC2021 Release.Forki2107-Jul Session.EcsETagi."Eb2DQ/9o5N3j77wL0E+ZutYdweskdB3uM18+kwfKF6I=" 
+Session.Flags0      
+Session.Idi$394cbe7b-3799-4191-8540-e41ff3282823 Session.MeasuresEnabled0 Session.SamplingClientIdValue0 V    _ ? Session.SubAppName Session.VirtualizationType0  User.PrimaryIdentityHashia58786a0da8cc3ca User.PrimaryIdentitySpaceiMSACID User.TenantGroupi
+E_Not_Init 
+User.TenantId0 
+                 zP.Data.AppState0   $zP.Data.Click2RunPackageVersionBuild0  $zP.Data.Click2RunPackageVersionMajor0   $zP.Data.Click2RunPackageVersionMinor0   'zP.Data.Click2RunPackageVersionRevision0   zP.Data.IsDebug0  
+ zP.Data.IsOEMInstalled0   "zP.Data.IsRoboticProcessAutomation0  $ zP.Data.IsRunAsAdmin0   zP.Data.IsWdag0  " zP.Data.OfficeArchitectureText0   zP.Data.OfficeBuild0   zP.Data.OfficeBuildRevision0   zP.Data.OfficeMajorVer0   zP.Data.OfficeMinorVer0   zP.Data.OfficeMuiCount0   zP.Data.OfficeSkuLanguageTag0    zP.Data.OfficeUiLangTag0     )3.0I$Office_System_SystemHealthMetadataOSq         "o:cd836626611c4caaa8fc5b2e728ee81d   
+i"Micro-Star International Co., Ltd.  MS-7C94  
+  
+I&c:b4a1ba95-ac93-4230-b88a-a81cade2527a Windows.Desktop  
+ Windows Desktop ,10.0.26100.1.amd64fre.ge_release.240331-1435  
+ EXCEL 16.0.14332.20281 EXCEL  
+I	Unmeteredi Unknown   
+)EVT-Windows-C++-No-3.4.15.1I$CFE18827-CED3-45CD-B3E0-63184AB5ABD1q  !
+i+09:00  %
+  <custom.office_legacy_metadata F
+-	
+c
+App.BranchiFork App.InstallType0   App.NameiExcel App.PlatformiWin32 
+App.Versioni16.0.14332.20281 	Client.Id0 
+      @ J<MӚ
+j "Consent.AddInContentSourceLocation0   Consent.AddInContentState0   1Consent.ControllerConnectedServicesSourceLocation0   (Consent.ControllerConnectedServicesState0  Consent.DiagnosticConsentLevel0   ,Consent.DiagnosticConsentLevelSourceLocation0  !Consent.DiagnosticDataConsentTime0   ˩     %Consent.DownloadContentSourceLocation0   Consent.DownloadContentState0  Consent.ServiceConnectionState0   ,Consent.ServiceConnectionStateSourceLocation0   Consent.UserCategoryValue0   *Consent.UserContentDependentSourceLocation0   !Consent.UserContentDependentState0  Data.CountryRegion0    Data.HorizontalResolution0   5 Data.IsTerminalServer0 Data.KeyboardLanguage0    Data.KeyboardLanguageTagiko-KR Data.OSEnvironment0   Data.OSVersionStringi10.0 Data.OsBuild0    Data.OsBuildRevision0   k 
+Data.OsLocale0    Data.OsLocaleTagiko-KR Data.OsMajorVer0   Data.OsMinorVer0  
+Data.OsSku0  ` 
+Data.OsSuite20    
+Data.OsUiLang0    Data.ScreenDepth0  @ Data.ScreenDpi0    Data.ServicePackMajorVer0  Data.ServicePackMinorVer0  Data.SystemLocale0    Data.SystemLocaleTagiko-KR Data.TimeZoneBiasInMinutes0    Data.VerticalResolution0    Device.OsBuildi26100 Device.OsVersioni10.0 Event.ContractiOffice.Legacy.Metadata 
+Event.Flags0         x Event.Idi&394cbe7b-3799-4191-8540-e41ff3282823.3 
+Event.Namei$Office.System.SystemHealthMetadataOS 
+Event.Rulei120601.2 Event.RuleInterfacesiMetadata Event.SampleRate0        ? Event.SchemaVersion0   Event.Sequence0   Event.SourceiMso 
+Event.Time0 Ф       EventInfo.Level0   Legacy.AppId0   Legacy.OsEnv0   Release.AudienceiProduction_LTSC2021 Release.AudienceGroupi
+Production Release.ChanneliLTSC2021 Release.Forki2107-Jul Session.EcsETagi."Eb2DQ/9o5N3j77wL0E+ZutYdweskdB3uM18+kwfKF6I=" 
+Session.Flags0      
+Session.Idi$394cbe7b-3799-4191-8540-e41ff3282823 Session.MeasuresEnabled0 Session.SamplingClientIdValue0 V    _ ? Session.SubAppName Session.VirtualizationType0  User.PrimaryIdentityHashia58786a0da8cc3ca User.PrimaryIdentitySpaceiMSACID User.TenantGroupi
+E_Not_Init 
+User.TenantId0 
+                 zP.Data.CountryRegion0  ( zP.Data.HorizontalResolution0   zP.Data.IsTerminalServer0   zP.Data.KeyboardLanguage0  $ zP.Data.KeyboardLanguageTag0  . zP.Data.OSEnvironment0   zP.Data.OSVersionString0   zP.Data.OsBuild0   zP.Data.OsBuildRevision0   zP.Data.OsLocale0    zP.Data.OsLocaleTag0  , zP.Data.OsMajorVer0  zP.Data.OsMinorVer0   
+zP.Data.OsSku0   zP.Data.OsSuite20   zP.Data.OsUiLang0  " zP.Data.ScreenDepth0   zP.Data.ScreenDpi0   zP.Data.ServicePackMajorVer0  
+ zP.Data.ServicePackMinorVer0   zP.Data.SystemLocale0  & zP.Data.SystemLocaleTag0  0 zP.Data.TimeZoneBiasInMinutes0  * zP.Data.VerticalResolution0     )3.0I&Office_Text_ResourceClient_Deserializeq         "o:9c9dcb87a41b41bebea94330a23d828d   
+i"Micro-Star International Co., Ltd.  MS-7C94  
+  
+I&c:b4a1ba95-ac93-4230-b88a-a81cade2527a Windows.Desktop  
+ Windows Desktop ,10.0.26100.1.amd64fre.ge_release.240331-1435  
+ EXCEL 16.0.14332.20281 EXCEL  
+I	Unmeteredi Unknown   
+)EVT-Windows-C++-No-3.4.15.1I$251F0E69-79AD-4F2C-A9B9-ACB7493F6F6Cq  !
+i+09:00  %
+  <custom.office_system_activity F
+-	
+9Activity.AggMode0  
+Activity.CVie75MOZk3kUGFQOQf8ygoIw.8 Activity.Count0   Activity.Duration0   N Activity.Success0  
+App.BranchiFork App.InstallType0   App.NameiExcel App.PlatformiWin32 
+App.Versioni16.0.14332.20281 	Client.Id0 
+      @ J<MӚ
+j "Consent.AddInContentSourceLocation0   Consent.AddInContentState0   1Consent.ControllerConnectedServicesSourceLocation0   (Consent.ControllerConnectedServicesState0  Consent.DiagnosticConsentLevel0   ,Consent.DiagnosticConsentLevelSourceLocation0  !Consent.DiagnosticDataConsentTime0   ˩     %Consent.DownloadContentSourceLocation0   Consent.DownloadContentState0  Consent.ServiceConnectionState0   ,Consent.ServiceConnectionStateSourceLocation0   Consent.UserCategoryValue0   *Consent.UserContentDependentSourceLocation0   !Consent.UserContentDependentState0  Data.JsonFileMajorVersion0   Data.JsonFileMinorVersion0  " Device.OsBuildi26100 Device.OsVersioni10.0 Event.CVie75MOZk3kUGFQOQf8ygoIw.8 Event.ContractiOffice.System.Activity 
+Event.Flags0         n Event.Idi&394cbe7b-3799-4191-8540-e41ff3282823.1 
+Event.Namei&Office.Text.ResourceClient.Deserialize Event.SampleRate0        ? Event.SchemaVersion0   Event.Sequence0   Event.SourceiMso 
+Event.Time0          EventInfo.Level0   Legacy.AppId0   Legacy.OsEnv0   Release.AudienceiProduction_LTSC2021 Release.AudienceGroupi
+Production Release.ChanneliLTSC2021 Release.Forki2107-Jul Session.EcsETagi."Eb2DQ/9o5N3j77wL0E+ZutYdweskdB3uM18+kwfKF6I=" 
+Session.Flags0      
+Session.Idi$394cbe7b-3799-4191-8540-e41ff3282823 Session.MeasuresEnabled0 Session.SamplingClientIdValue0 V    _ ? Session.SubAppName Session.VirtualizationType0  User.PrimaryIdentityHashia58786a0da8cc3ca User.PrimaryIdentitySpaceiMSACID User.TenantGroupi
+E_Not_Init 
+User.TenantId0 
+                   
+
+HTTP/1.1 200 OK
+Content-Length: 10
+Content-Type: application/json
+Server: Microsoft-HTTPAPI/2.0
+Strict-Transport-Security: max-age=31536000
+time-delta-millis: 660
+Access-Control-Allow-Headers: time-delta-millis
+Access-Control-Allow-Methods: POST
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: *
+Access-Control-Expose-Headers: time-delta-millis
+Date: Fri, 31 Oct 2025 10:53:33 GMT
+
+{"acc":12}

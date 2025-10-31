@@ -1,0 +1,31 @@
+{
+  "logen_credentials": {
+    "user_id": "여기에_업체아이디_입력",
+    "_password_note": "⚠️ 비밀번호는 프로그램 실행 시 직접 입력받습니다 (보안 강화)"
+  },
+  "api_endpoints": {
+    "base_url": "http://example.com",
+    "login": "/api/login",
+    "invoices": "/api/invoices",
+    "excel_download": "/api/invoices/excel"
+  },
+  "paths": {
+    "download_folder": "D:\\share\\logen-invoice-automation\\downloads",
+    "log_folder": "D:\\share\\logen-invoice-automation\\logs"
+  },
+  "settings": {
+    "auto_download": true,
+    "download_format": "xlsx",
+    "date_format": "%Y-%m-%d",
+    "timeout": 30
+  },
+  "email": {
+    "enabled": false,
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "your_email@gmail.com",
+    "sender_password": "your_app_password",
+    "recipient_list": []
+  },
+  "note": "⚠️ Fiddler로 패킷 분석 후 api_endpoints 섹션을 실제 API 주소로 업데이트하세요!"
+}

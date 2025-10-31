@@ -1,0 +1,43 @@
+# 로젠택배 송장 자동화 프로그램 - Git 제외 파일
+
+# 설정 파일 (로그인 정보 포함)
+config.json
+
+# 다운로드된 엑셀 파일
+downloads/
+*.xlsx
+*.xls
+
+# 로그 파일
+logs/
+*.log
+
+# Python 캐시
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# 가상환경
+venv/
+env/
+ENV/
+.venv
+
+# IDE 설정
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS 파일
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 임시 파일
+*.tmp
+*.bak
+*.backup
