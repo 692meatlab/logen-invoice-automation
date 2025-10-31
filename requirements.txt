@@ -12,5 +12,8 @@ pandas>=2.0.0
 # .NET DLL 로드 및 호출 (복호화에 필수)
 pythonnet>=3.0.0
 
+# 비밀번호 암호화 (보안)
+cryptography>=41.0.0
+
 # 스케줄링 (자동 실행 기능 추가 시)
 schedule>=1.2.0

@@ -37,6 +37,8 @@
 - ✅ 로젠택배 SOAP API 자동 로그인
 - ✅ 암호화된 송장 데이터 조회 및 자동 복호화
 - ✅ 로젠 DLL (`Logen.Framework.BaseUtil.dll`) 활용한 복호화
+- ✅ **비밀번호 안전 관리** - 머신별 암호화 저장 (다른 PC에서 복호화 불가)
+- ✅ **간편한 비밀번호 변경** - `run_logen.bat` 실행만으로 업데이트
 - ✅ 엑셀 파일 자동 저장
 - ✅ 상세 로그 기록
 - ✅ 다중 PC 지원 (설정 파일만 수정하면 어디서든 사용 가능)
@@ -64,15 +66,20 @@ pip install -r requirements.txt
 ```bash
 copy config.example.json config.json
 ```
-`config.json`을 편집하여 실제 정보 입력
+`config.json`을 편집하여 실제 정보 입력 (user_id, ip_address, mac_address)
 
 ### 4단계: Fiddler로 API 분석
 - Fiddler로 로젠택배 프로그램의 네트워크 요청 캡처
 - 로그인 정보 및 조회 파라미터 추출
 - 상세 방법은 [USER_GUIDE.md](USER_GUIDE.md) 참조
 
-### 5단계: 실행
-`run_downloader.bat` 더블 클릭
+### 5단계: 비밀번호 설정 ⭐ NEW
+`run_logen.bat` 더블 클릭 → 비밀번호 입력
+- 비밀번호는 암호화되어 안전하게 저장됩니다
+- 비밀번호 변경 시 다시 실행하세요
+
+### 6단계: 실행
+`run_downloader.bat` 더블 클릭 (저장된 비밀번호로 자동 실행)
 
 ---
 

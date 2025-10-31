@@ -3,6 +3,10 @@
 # 설정 파일 (로그인 정보 포함)
 config.json
 
+# 비밀번호 파일 (암호화된 비밀번호)
+.password
+.key
+
 # 다운로드된 엑셀 파일
 downloads/
 *.xlsx

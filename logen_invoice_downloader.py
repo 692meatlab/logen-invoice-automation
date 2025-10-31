@@ -23,6 +23,7 @@ sys.path.append(ILOGEN_DLL_PATH)
 
 from System.Reflection import Assembly
 from System import Array, Byte, Activator
+from password_manager import PasswordManager
 
 
 class LogenInvoiceDownloader:
@@ -126,6 +127,15 @@ class LogenInvoiceDownloader:
             credentials = self.config['logen_credentials']
             api_config = self.config['api_endpoints']
 
+            # 저장된 비밀번호 로드
+            pm = PasswordManager()
+            password = pm.load_password()
+
+            if not password:
+                self.logger.error("저장된 비밀번호가 없습니다.")
+                self.logger.error("먼저 'run_logen.bat'을 실행하여 비밀번호를 설정하세요.")
+                return False
+
             login_url = f"{api_config['base_url']}{api_config['login_soap']}"
             soap_action = "http://ilogen.ilogen.com/iLOGEN.COMM.WebService/W_COMM_NTx_LoginEncrypt"
 
@@ -134,7 +144,7 @@ class LogenInvoiceDownloader:
             soap_body = f'''<W_COMM_NTx_LoginEncrypt xmlns="http://ilogen.ilogen.com/iLOGEN.COMM.WebService/">
             <arrParam>
                 <string>{credentials['user_id']}</string>
-                <string>{credentials['encrypted_password']}</string>
+                <string>{password}</string>
                 <string>{credentials['ip_address']}</string>
                 <string>{credentials['mac_address']}</string>
             </arrParam>

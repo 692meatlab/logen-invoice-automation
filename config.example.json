@@ -1,13 +1,14 @@
 {
   "logen_credentials": {
     "user_id": "여기에_업체아이디_입력",
-    "_password_note": "⚠️ 비밀번호는 프로그램 실행 시 직접 입력받습니다 (보안 강화)"
+    "ip_address": "Fiddler에서_찾은_IP주소",
+    "mac_address": "Fiddler에서_찾은_MAC주소",
+    "_password_note": "⚠️ 비밀번호는 'run_logen.bat'을 실행하여 별도로 설정합니다 (보안 강화)"
   },
   "api_endpoints": {
-    "base_url": "http://example.com",
-    "login": "/api/login",
-    "invoices": "/api/invoices",
-    "excel_download": "/api/invoices/excel"
+    "base_url": "http://ilogen.ilogen.com",
+    "login_soap": "/iLOGEN.COMM.WebService/W_COMM.asmx",
+    "data_soap": "/iLOGEN.FC.WebService/W_FC.asmx"
   },
   "paths": {
     "download_folder": "D:\\share\\logen-invoice-automation\\downloads",
